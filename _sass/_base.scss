@@ -10,7 +10,7 @@ body {
 	font-family: $base-font;
 	color: $text-color;
 	background-image: 
-	  linear-gradient(rgba(144, 144, 240, 0.2), rgba(144, 144, 240, 0.9)),
+	  linear-gradient(rgba(255, 153, 255, 0.1), rgba(255, 153, 255, 0.3)),
       url('../images/flowerr.jpg');
 	@include font-size(16);
 }
