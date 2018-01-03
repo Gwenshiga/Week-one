@@ -14,3 +14,8 @@
   url: /posts/ 
   excerpt: "学习笔记"
   image: 奔跑.gif
+ 
+- title: 别联系我
+  url: /contact/ 
+  excerpt: "别联系我"
+  image: 泡泡.gif
