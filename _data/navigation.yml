@@ -11,12 +11,12 @@
   image: 龙猫.gif  
   
 - title: 网页设计笔记
-  url: /posts/ 
+  url: /posts/rwd/
   excerpt: "网页设计笔记"
   image: 奔跑.gif
   
 - title: 信息可视化笔记
-  url: /posts/ 
+  url: /posts/infovis/ 
   excerpt: "信息可视化笔记"
   image: 波波.gif
   
